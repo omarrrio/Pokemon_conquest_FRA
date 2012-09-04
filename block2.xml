@@ -1,0 +1,296 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Block>
+  <Text ID="0">{C1}Histoire de {Color:31}Kai{Color:33}, {Color:32}Simplement Le Meilleur{Color:33}, a été débloquée!{End}</Text>
+  <Text ID="1">{C1}Histoire de {Color:31}Masanori{Color:33}, {Color:32}Ne Vaut Pas la Paine... 3{Color:33}, a été débloquée!{End}</Text>
+  <Text ID="2">{C1}Histoire de {Color:31}Ranmaru{Color:33}, {Color:32}Un destin Né de la Beauté{Color:33}, a été débloquée!{End}</Text>
+  <Text ID="3">{C1}Histoire de {Color:31}Keiji{Color:33}, {Color:32}La Voie de l'Ésprit Libre{Color:33}, a été débloquée!{End}</Text>
+  <Text ID="4">{C1}Histoire de {Name}{C1}, {Color:32}Deux Heros de Ransei{Color:33}, has been unlocked!{End}</Text>
+  <Text ID="5">{C1}Les données de jeu sont corrompues. Tentative de restaurer les données de jeu...{End}</Text>
+  <Text ID="6">{C1}Les données de galerie sont corrompues. Tentative de restaurer les données de galerie...{End}</Text>
+  <Text ID="7">{C1}Les données de sauvegarde sont corrompues. Tentative de restaurer les données de sauvegarde...{End}</Text>
+  <Text ID="8">{C1}Les données de galerie sont corrompues et seront reformatées.{End}</Text>
+  <Text ID="9">
+    {C1}Reformatage des données Galerie…
+    {C1}N'éteignez pas la console ou touchez pas la cartouche du jeu.{End}
+  </Text>
+  <Text ID="a">{C1}Un Guerrier peut entrer dans des {Color:32}locations{Color:33} comme le Magasin ou le Magasin de Ponigiri et le quitter sans acheter ou vendre quelque chose. Dans un tel cas, ils n'utiliseront pas leur tour.{End}</Text>
+  <Text ID="b">{C1}Faites un peu d'{Color:32}entrainement{Color:33} pour renforcer le lien entre Guerriers et Pokémon.{End}</Text>
+  <Text ID="c">{C1}Allez à la {Color:32}recherche{Color:33} pour rallier des Guerriers et des Pokémon à votre armée.{End}</Text>
+  <Text ID="d">{C1}Rassemblez de l'or et investir dans des emplacements afin de {Color:32}développer{Color:33} votre armée et châteaux.{End}</Text>
+  <Text ID="e">{C1}{Color:32}Développez{Color:33} votre armée en augmentant l'énergie de ses Pokémon et trouver de l'or.{End}</Text>
+  <Text ID="f">{C1}Cessez de {Color:32}déléguer{Color:33} à un Guerrier particulier que vous avez déjà attribué des ordres.{End}</Text>
+  <Text ID="10">{C1}Ne {Color:32}déléguez{Color:33} pas à un Guerrier particulier, aprés tout.{End}</Text>
+  <Text ID="11">{C1}Tous{End}</Text>
+  <Text ID="12">{C1}Guerriers Alliés{End}</Text>
+  <Text ID="13">{C1}Guerriers Ennemis{End}</Text>
+  <Text ID="14">{C1}Guerriers Libres{End}</Text>
+  <Text ID="15">{C1}Trier par place{End}</Text>
+  <Text ID="16">{C1}Trier par ordre de Galerie (G){End}</Text>
+  <Text ID="17">{C1}Trier par nom de Guerriers{End}</Text>
+  <Text ID="18">{C1}Trier par ordre de Galerie (P){End}</Text>
+  <Text ID="19">{C1}Trier par nom de Pokémon{End}</Text>
+  <Text ID="1a">{C1}Trier par force{End}</Text>
+  <Text ID="1b">{C1}Rechercher par type{End}</Text>
+  <Text ID="1c">
+    {C1}Filtrer par type. Vous pouvez sélectionner un maximum de deux types.
+    {C1}{Color:32}○{Color:33} = super efficace
+    {C1}{Color:32}△{Color:33} = pas très efficace
+    {C1}{Color:32}×{Color:33} = aucun effet
+    {C1}{Color:31}Bleu{Color:33} = dommages à l'adversaire
+    {C1}{Color:30}Rouge{Color:33} = dommages à vous-même{End}
+  </Text>
+  <Text ID="1d">{Name2}{C1} a quitté l'armée.{End}</Text>
+  <Text ID="1e">{Name2}{C1} et les autres ont quitté l'armée.{End}</Text>
+  <Text ID="1f">{C1}Sélectionnez Histoire{End}</Text>
+  <Text ID="20">{C1}Vous recruté un guerrier qui a déjà été ajouté à la galerie. Les informations de votre rencontre précédente seront reportés.{End}</Text>
+  <Text ID="21">{C1}Malheureusement, vous n'avez pas réussi à accomplir votre mission.{End}</Text>
+  <Text ID="22">{C1}Vous êtes maintenant en mesure de jouer l'Histoire de Okuni, {Color:32}Un Rendez-Vous Avec le Destin{Color:33}. {Color:30}Cette histoire devient disponible à jouer seulement une fois que vous avez terminé le jeu.{Color:33}{End}</Text>
+  <Text ID="23">{C1}Vous êtes maintenant en mesure de jouer l'Histoire de Ranmaru, {Color:32}Un destin Né de la Beauté{Color:33}. {Color:30}Cette histoire devient disponible à jouer seulement une fois que vous avez terminé le jeu.{Color:33}{End}</Text>
+  <Text ID="24">{C1}Galerie{End}</Text>
+  <Text ID="25">{C1}Pokémon{End}</Text>
+  <Text ID="26">{C1}Guerriers{End}</Text>
+  <Text ID="27">{C1}Nombre trouvé{End}</Text>
+  <Text ID="28">{C1}Nombre dans la Galerie{End}</Text>
+  <Text ID="29">{C1}Nombre dans la Galerie{End}</Text>
+  <Text ID="2a">{C1}Trier par ordre dans la Galerie{End}</Text>
+  <Text ID="2b">{C1}Trier par No. Pokédex{End}</Text>
+  <Text ID="2c">{C1}Trier par nom{End}</Text>
+  <Text ID="2d">{C1}Trier par oordre dans la Galerie{End}</Text>
+  <Text ID="2e">{C1}Histoires{End}</Text>
+  <Text ID="2f">{C1}Utilisez les fonctionnalités sans-fil pour combattre les autres via le réseau local sans-fil ou téléchargez des données depuis la Connection Wi-Fi Nintendo.{End}</Text>
+  <Text ID="30">{C1}Selectionnez un {Color:32}Hôte{Color:33} pour combattre en utilisant n'importe quels Guerriers de la Galerie dans le champ de bataille que vous avez sélectionné et en utilisant les paramètres de lien que cous avez choisi. Selectionnez {Color:32}Joindre{Color:33} pour combattre en utilisant n'importe quels Guerriers de la Galerie avec les paramètres de lien et champ de bataille choisi par un autre joueur.{End}</Text>
+  <Text ID="31">{C1}Les règles du jeu seront définies une fois tous les joueurs ont assemblé.{End}</Text>
+  <Text ID="32">{C1}Attendant...{End}</Text>
+  <Text ID="33">{C1}Chaque équipe peut contenir jusqu'à deux joueurs. Quand il ya moins de quatre joueurs, l'ORD va remplir les places manquantes.{End}</Text>
+  <Text ID="34">{C1}Choisissez votre équipe.{End}</Text>
+  <Text ID="35">{C1}Choisissez un royaume, puis sélectionnez un champ de bataille.{End}</Text>
+  <Text ID="36">{C1}Êtes-vous sûr de vouloir livrer bataille dans {Area}{C1}?{End}</Text>
+  <Text ID="37">{C1}Sélectionnez les Guerriers que vous souhaitez envoyer dans la bataille. Leurs partenaire Pokémon peuvent être changés.{End}</Text>
+  <Text ID="38">{C1}Choisissez les Guerriers que l'ORD va se battre avec. Leurs partenaire Pokémon peuvent être changés.{End}</Text>
+  <Text ID="39">{C1}Êtes-vous sûr ce sont les guerriers que vous souhaitez envoyer dans la bataille?{End}</Text>
+  <Text ID="3a">{C1}Commencez la bataille?{End}</Text>
+  <Text ID="3b">{C1}Se déconnectez?{End}</Text>
+  <Text ID="3c">{C1}Vous avez déconnecté. Vous allez maintenant être redirigé vers le menu de Combat.{End}</Text>
+  <Text ID="3d">
+    {C1}Recherche d'amis...
+    {C1}Patientez s'il vous plaît.{End}
+  </Text>
+  <Text ID="3e">{C1}Amis trouvés! Ceux qui ont un symbole à côté de leurs noms sont actuellement à la recherche de l'aide avec des histoires différentes.{End}</Text>
+  <Text ID="3f">{C1}Veuillez sélectionner des joueurs.{End}</Text>
+  <Text ID="40">{C1}Patientez s'il vous plaît.{End}</Text>
+  <Text ID="41">{C1}En attente de {Color:31}%s{Color:33} de décider...{End}</Text>
+  <Text ID="42">
+    {C1}{Color:31}%s{Color:33} est en train de sélectionner un champ de bataille.
+    {C1}Patientez s'il vous plaît...{End}
+  </Text>
+  <Text ID="43">{C1}Un joueur s'est déconnecté et sera remplacé par l'ORD.{End}</Text>
+  <Text ID="44">{C1}Une erreur de communication s'est produite. Vous serez renvoyé au menu Bataille.{End}</Text>
+  <Text ID="45">{C1}En attente d'un autre joueur pour rejoidre la partie coopérative...{End}</Text>
+  <Text ID="46">{C1}Trouvé quelqu'un pour rejoindre la partie coopérative!{End}</Text>
+  <Text ID="47">{C1}L'autre joueur est en train de sélectionner des Guerriers. Patientez s'il vous plaît...{End}</Text>
+  <Text ID="48">{C1}Êtes-vous sûr que vous voulez commencer un jeu coopératif?{End}</Text>
+  <Text ID="49">{C1}La connexion a été interrompue. Vous serez renvoyé au menu Bataille.{End}</Text>
+  <Text ID="4a">{C1}Choisissez si vous voulez attaquer ou défendre.{End}</Text>
+  <Text ID="4b">{C1}{Color:31}%s{Color:33} est en train de choisir un camp...{End}</Text>
+  <Text ID="4c">{C1}Vous allez combattre sur le côté attaquant.{End}</Text>
+  <Text ID="4d">{C1}Vous allez combattre sur le côté défendant.{End}</Text>
+  <Text ID="4e">{C1}Attaquer{End}</Text>
+  <Text ID="4f">{C1}Défendre{End}</Text>
+  <Text ID="50">{C1}Aléatoire{End}</Text>
+  <Text ID="51">{C1}Victoires de %s: {Turns}{C1}.{End}</Text>
+  <Text ID="52">{C1}Trier par force{End}</Text>
+  <Text ID="53">{C1}Paramètre{End}</Text>
+  <Text ID="54">{C1}Bataille{End}</Text>
+  <Text ID="55">{C1}Commencer la bataille{End}</Text>
+  <Text ID="56">{C1}Vous pouvez commencer la bataille{End}</Text>
+  <Text ID="57">{C1}En attendant les autres joueurs de choisir leurs paramètres...{End}</Text>
+  <Text ID="58">{C1}Données reçues de tous les joueurs participants.{End}</Text>
+  <Text ID="59">{C1}Hôte{End}</Text>
+  <Text ID="5a">{C1}Joindre{End}</Text>
+  <Text ID="5b">{C1}En attente de confirmation de %s...{End}</Text>
+  <Text ID="5c">{C1}{Color:31}%s{Color:33} est en train de choisir un champ de bataille...{End}</Text>
+  <Text ID="5d">{C1}En attente de confirmation de %s...{End}</Text>
+  <Text ID="5e">{C1}Situé dans un paisible village rural, ce champ de bataille peut devenir intense à tout moment. Utiliser judicieusement les {Color:32}grumes{Color:33} pour infliger un maximum de dégâts à vos ennemis!{End}</Text>
+  <Text ID="5f">{C1}Si vous voulez une bataille qui est vraiment grésille, cherchez pas plus loin qu'un volcan actif avec des {Color:32}colonnes de feu{Color:33} tirant un peu partout dans la place! Et si c'est trop pour vous, détentez vous dans les {Color:32}sources d'eau chaude{Color:33}!{End}</Text>
+  <Text ID="60">{C1}Le Guerrier qui harnais mieux la puissance remarquable de l'eau décidera le vainqueur sur ce champ de bataille. Réfléchissez bien, et faites un bon usage des {Color:32}vannes{Color:33}.{End}</Text>
+  <Text ID="61">{C1}Alors que des courants électriques impulse non-stop autour de vous, l'armée qui contrôle les {Color:32}interrupteurs{Color:33} contrôle le champ de bataille!{End}</Text>
+  <Text ID="62">{C1}Bienvenue au labyrinthe le plus luxuriant que vous avez jamais vu! Mais vous aurez besoin plus que juste un pouce vert pour déjouer votre ennemi sur ce champ de bataille filled with {Color:32}vines{Color:33} and {Color:32}strange grass{Color:33}!{End}</Text>
+  <Text ID="63">{C1}Quel meilleur endroit pour faire face à votre adversaire que sous un ciel froid glacial? Obtenez le meilleur de ce {Color:32}glace{Color:33} glissant, et entourez votre ennemi!{End}</Text>
+  <Text ID="64">{C1}Ce champ de bataille est pour les mauviettes-difficiles qui trouveront leurs têtes tourner! Essayez de protéger les {Color:32}bannières{Color:33} tant que vous et vôtre ennemi luttent pour ne pas tomber du bord de l'anneau...{End}</Text>
+  <Text ID="65">{C1}Dans ce manoir rusé qui ne manque pas de pièges ou de poison, comprenez comment marche les passages secrets et réclamer les {Color:32}bannières{Color:33} avant que votre adversaire parvient à le faire!{End}</Text>
+  <Text ID="66">{C1}Voyagez jusqu'à un désert orageuse qui connaît bien de fortes {Color:32}rafales de vent{Color:33}! Qui va prendre contrôle des trois tours, inaccessibles même aux Pokémon de type vol?{End}</Text>
+  <Text ID="67">{C1}Dans un pays si haut au-dessus des nuages , ne peut même pas être vu de la terre, utilisez les {Color:32}rampes de saut{Color:33} pour sauter en avant de votre adversaire!{End}</Text>
+  <Text ID="68">{C1}Découvrez le plaisir de bataille sur un mystérieux rocher flottant! {Color:32}Déformez{Color:33} votre chemin à travers le champ de bataille, et réclamer toutes les {Color:32}bannières{Color:33} comme les vôtres.{End}</Text>
+  <Text ID="69">{C1}Une bataille menée par les Pokémari dans le cadre pittoresque d'un charmant jardin traditionnel. Attrapez les {Color:32}balles Pokémari{Color:33} roulants pour voler la victoire à votre adversaire!{End}</Text>
+  <Text ID="6a">{C1}Une bataille intense menée sur les hauteurs d'une montagne rocheuse! Comme vous et votre ennemi roule des {Color:32}roches{Color:33} sur l'un l'autre, assurez-vous que vous êtes celui qui réussit à débarquer le coup crucial!{End}</Text>
+  <Text ID="6b">{C1}Des {Color:32}statues{Color:33} suspectes vers des {Color:32}boules de feu{Color:33}, vous aurez à vous habituer à un champ de bataille en constante évolution dans ce match palpitant!{End}</Text>
+  <Text ID="6c">{C1}Il n'y a aucun autre choix que de prendre sur votre adversaire face-à-face dans celui-ci. Assurez-vous de regarder dehors pour les changement de {Color:32}nœuds{Color:33}!{End}</Text>
+  <Text ID="6d">{C1}Un monde sombre de l'incertitude et de la peur... Qui sait ce qui vous attend dans ce champ de bataille caché? Considérez ceci votre invitation vers les chaos débridés...{End}</Text>
+  <Text ID="6e">{C1}Dans un champ de bataille plein de pièges cachés, voyager en ligne droite ne vous causera que des ennuis! Mettez la mains sur ces {Color:32}roues dentées{Color:33} tournants pour réussir dans celui-ci!{End}</Text>
+  <Text ID="6f">{C1}Impossible de se connecter à la connexion Wi-Fi Nintendo. Pour de l'aide, consultez le Livret d'Instructions du Logiciel ou visitez le site support.nintendo.com.{End}</Text>
+  <Text ID="70">{C1}Impossible de se connecter à la connexion Wi-Fi Nintendo. Pour de l'aide, consultez le Manuel des opérations de la Nintendo DSi ou visitez le site support.nintendo.com.{End}</Text>
+  <Text ID="71">{C1}Soit la Connexion Wi-Fi Nintendo connaît un trafic important ou le service est en panne. Veuillez réessayer plus tard. Pour de l'aide, visitez le site support.nintendo.com.{End}</Text>
+  <Text ID="72">{C1}Cet identifiant de Connexion Wi-Fi Nintendo a été supprimé car il a été inactif pendant une longue période. Pour de l'aide, visitez le site support.nintendo.com.{End}</Text>
+  <Text ID="73">{C1}Cet identifiant de Connexion Wi-Fi Nintendo a été supprimé car il a été inactif pendant une longue période. Pour de l'aide, consultez le Manuel des opérations de la Nintendo DSi ou visitez le site support.nintendo.com.{End}</Text>
+  <Text ID="74">{C1}Le service de Connexion Wi-Fi Nintendo pour ce logiciel a été abandonné. Visitez support.nintendo.com pour une liste courante de logiciels de jeu compatible avec Connexion Wi-Fi Nintendo.{End}</Text>
+  <Text ID="75">{C1}Aucun point d'accès à portée. Veuillez essayer de nouveau en vous approchant d'un point d'accés. Pour de l'aide, visitez le site support.nintendo.com.{End}</Text>
+  <Text ID="76">{C1}Pour utiliser cette fonction, vous devez accepter les termes de l'accord de Nintendo DSi Network Services dans les paramètres système.{End}</Text>
+  <Text ID="77">
+    {C1}Pour utiliser cette fonction, vous devez accepter les termes de l'accord de Nintendo DSi Network Services dans les paramètres système.
+    {C1}Voulez-vous le faire maintenant? [Oui / Non]{End}
+  </Text>
+  <Text ID="78">{C1}Les communications sans fil sont désactivés. Activez les communications sans fil dans les paramètres système.{End}</Text>
+  <Text ID="79">{C1}Aucun point d'accès compatible à portée. Vérifiez vos paramètres de connexion et essayez à nouveau. Pour de l'aide, visitez le site support.nintendo.com.{End}</Text>
+  <Text ID="7a">{C1}Aucun point d'accès compatible à portée. Vérifiez vos paramètres de connexion sous l'option Internet dans les paramètres système et essayez à nouveau. Pour de l'aide, visitez le site support.nintendo.com.{End}</Text>
+  <Text ID="7b">{C1}Le point d'accès est occupé. Impossible de se connecter. S'il vous plaît réessayer plus tard. Pour de l'aide, visitez le site support.nintendo.com.{End}</Text>
+  <Text ID="7c">{C1}Impossible de se connecter à la Connexion Wi-Fi Nintendo. Vérifiez vos paramètres de connexion et essayez à nouveau. Pour de l'aide, visitez le site support.nintendo.com.{End}</Text>
+  <Text ID="7d">{C1}Unable to connect to Connexion Wi-Fi Nintendo. Vérifiez vos paramètres de connexion sous l'option Internet dans les paramètres système et essayez à nouveau. Pour de l'aide, visitez le site support.nintendo.com.{End}</Text>
+  <Text ID="7e">{C1}Il n'y a pas de réponse. Soit le joueur a été déconnecté ou vous avez été retiré de la liste d'amis du joueur.{End}</Text>
+  <Text ID="7f">{C1}Le joueur a cessé de répondre.{End}</Text>
+  <Text ID="80">{C1}Il n'y a pas de réponse.{End}</Text>
+  <Text ID="81">{C1}Erreur de communication. Pour de l'aide, visitez le site support.nintendo.com.{End}</Text>
+  <Text ID="82">{C1}Le téléchargement a échoué. Pour de l'aide, visitez le site support.nintendo.com.{End}</Text>
+  <Text ID="83">{C1}Connexion Wi-Fi Nintendo ne peut pas être utilisé car une erreur s'est produite. Éteignez la console et essayez à nouveau.{End}</Text>
+  <Text ID="84">{C1}Connexion Wi-Fi Nintendo ne peut pas être utilisé car une erreur s'est produite. Réinitialisez le système et essayez à nouveau.{End}</Text>
+  <Text ID="85">{C1}Vos informations utilisateur Wi-Fi ont peut-être été effacé. Vérifiez vos paramètres de Connexion Wi-Fi Nintendo.{End}</Text>
+  <Text ID="86">{C1}Vos informations utilisateur Wi-Fi ont peut-être été effacé. Vérifiez vos paramètres de connexion sous l'option Internet dans les paramètres système. Pour de l'aide, visitez le site support.nintendo.com.{End}</Text>
+  <Text ID="87">{C1}Se connecter à la Connexion Wi-Fi Nintendo?{End}</Text>
+  <Text ID="88">{C1}La Connexion Wi-Fi Nintendo traite votre cartouche de jeu Nintendo DS et le système comme un ensemble. Enregistrer les informations utilisateur du Wi-Fi de ce système dans cette cartouche de jeu et vous connecter à la Connexion Wi-Fi Nintendo?{End}</Text>
+  <Text ID="89">{C1}La Connexion Wi-Fi Nintendo traite votre cartouche de jeu Nintendo DS et le système comme un ensemble. Enregistrer les informations utilisateur du Wi-Fi de ce système Nintendo DSi dans ces données de sauvegarde et vous connecter à la Connexion Wi-Fi Nintendo?{End}</Text>
+  <Text ID="8a">{C1}Les informations utilisateur Wi-Fi pour ce système ont été sauvegardé dans la cartouche du jeu. À partir de maintenant, veuillez utiliser ce système pour se connecter à la Connexion Wi-Fi Nintendo.{End}</Text>
+  <Text ID="8b">{C1}Les informations utilisateur Wi-Fi pour ce système Nintendo DSi ont été sauvegardé vers les données de sauvegarde. À partir de maintenant, veuillez utiliser ce système Nintendo DSipour se connecter à la Connexion Wi-Fi Nintendo.{End}</Text>
+  <Text ID="8c">{C1}Impossible de se connecter à la Connexion Wi-Fi Nintendo parce que les informations utilisateur Wi-Fi dans le système et la carte de jeu ne correspondent pas.{End}</Text>
+  <Text ID="8d">{C1}Impossible de se connecter à la Connexion Wi-Fi Nintendo parce que les informations utilisateur Wi-Fi dans le système Nintendo DSi et les données de sauvegarde ne correspondent pas.{End}</Text>
+  <Text ID="8e">{C1}Actualiser les informations d'utilisateur Wi-Fi enregistrées sur la cartouche du jeu? Lorsque vous mettez à jour vos informations utilisateur Wi-Fi, vous perdrez toutes les données qui ont été utilisées pour la connexion à la Connexion Wi-Fi Nintendo.{End}</Text>
+  <Text ID="8f">{C1}Actualiser les informations d'utilisateur Wi-Fi enregistrées sur les données de sauvegarde? Lorsque vous mettez à jour vos informations utilisateur Wi-Fi, vous perdrez toutes les données qui ont été utilisées pour la connexion à la Connexion Wi-Fi Nintendo.{End}</Text>
+  <Text ID="90">{C1}Connect to Connexion Wi-Fi Nintendo to update Wi-Fi User Information?{End}</Text>
+  <Text ID="91">
+    {C1}Connexion à la Connexion Wi-Fi Nintendo...
+    {C1}Veuillez patienter un moment...{End}
+  </Text>
+  <Text ID="92">{C1}Vous ne pouvez pas utiliser la Connexion Wi-Fi Nintendo en utilisant ce nom d'utilisateur. Veuillez changer votre nom d'utilisateur.{End}</Text>
+  <Text ID="93">{C1}Se déconnecter de la Connexion Wi-Fi Nintendo?{End}</Text>
+  <Text ID="94">{C1}Déconnection de la Connexion Wi-Fi Nintendo.{End}</Text>
+  <Text ID="95">{C1}Vous avez été déconnecté de la Connexion Wi-Fi Nintendo.{End}</Text>
+  <Text ID="96">{C1}Se déconnecter et revenir à l'écran de titre.{End}</Text>
+  <Text ID="97">{C1}Pas de données à télécharger.{End}</Text>
+  <Text ID="98">{C1}Êtes-vous sûr que vous souhaitez télécharger {Attack}{C1}?{End}</Text>
+  <Text ID="99">{C1}Téléchargement en cours...{End}</Text>
+  <Text ID="9a">{C1}Téléchargement Completé.{End}</Text>
+  <Text ID="9b">{C1}Téléchargement Annulé.{End}</Text>
+  <Text ID="9c">{C1}Les données non selectionnés seront perdues. Continuer?{End}</Text>
+  <Text ID="9d">{C1}{Attack}{C1} téléchargé.{End}</Text>
+  <Text ID="9e">
+    {C1}{Color:32}Nouvelle histoire déverrouillée!{Color:33}
+    {C1}Vous êtes maintenant en mesure de jouer à l'histoire de Keiji, {Color:32}La Voie de l'Ésprit Libre{Color:33}.{End}
+  </Text>
+  <Text ID="9f">
+    {C1}{Color:32}Nouvel événement déverrouillé!{Color:33}
+    {C1}Alliez vous avec Hideyoshi, et lancez vous dans une quête pour trouver Reshiram!{End}
+  </Text>
+  <Text ID="a0">
+    {C1}{Color:32}Nouvel événement déverrouillé!{Color:33}
+    {C1}Alliez vous avec Motochika et Motonari, et gagnez leur assistance en retour!
+    {C1}{Color:30}Cet événement ne peut se produire qu'au cours de l'histoire La Légende de Ransei.{Color:33}{End}
+  </Text>
+  <Text ID="a1">{C1}Paramètres de Lien{End}</Text>
+  <Text ID="a2">
+    {C1}Les règles de Batailles Sans-fil est désormais défini. S'il vous plaît sélectionner les paramètres de lien. 
+    {C1}Sélectionnez un {Color:32}nombre{Color:33} comme niveau maximum de lien autorisés au combat.
+    {C1}Si vous ne choisissez {Color:32}rien{Color:33}, les données de la Galerie qui vont être utilisées seront inchangées. 
+    {C1}{Color:30}Vous ne pourrez pas entrer une valeur qui dépasse le niveau maximum de lien.{Color:33}{End}
+  </Text>
+  <Text ID="a3">
+    {C1}{Color:31}%s{Color:33} est en cours de sélectionnez les paramètres de lien. 
+    {C1}Le {Color:32}nombre{Color:33} qu'ils ont sélectionné détermine le niveau maximum de lien autorisé au combat. 
+    {C1}Si {Color:32}rien{Color:33} n'a été sélectionné, les données de la Galerie qui vont être utilisées seront inchangées. 
+    {C1}{Color:30}Le nombre selectionné ne peut pas dépasser le niveau maximum de lien.{Color:33}{End}
+  </Text>
+  <Text ID="a4">{C1}La connexion a été interrupue. Vous serez renvoyé au menu Bataille.{End}</Text>
+  <Text ID="a5">{C1}La connexion a été interrupue. Vous serez renvoyé à la carte principale Ransei.{End}</Text>
+  <Text ID="a6">{C1}{Color:30}%s{Color:33} est en cours de sélectionner des Guerriers...{End}</Text>
+  <Text ID="a7">{C1}{Color:31}%s{Color:33} est en cours de sélectionner des Guerriers...{End}</Text>
+  <Text ID="a8">{C1}En attente de {Color:31}%s{Color:33} pour commencer la bataille...{End}</Text>
+  <Text ID="a9">
+    {C1}{Color:32}Nouvelle histoire déverrouillée!{Color:33}
+    {C1}Vous êtes maintenant en mesure de jouer à l'histoire de Okuni, {Color:32}Un Rendez-Vous Avec le Destin{Color:33}.{End}
+  </Text>
+  <Text ID="aa">
+    {C1}{Color:32}Nouvelle histoire déverrouillée!{Color:33}
+    {C1}Vous êtes maintenant en mesure de jouer à l'histoire de Ranmaru, {Color:32}Un destin Né de la Beauté{Color:33}.{End}
+  </Text>
+  <Text ID="ab">{C1}Confère une immunité complète à tous les mouvements de Type-Sol.{End}</Text>
+  <Text ID="ac">{C1}Le Pokémon peut grimper à des hauts lieux.{End}</Text>
+  <Text ID="ad">{C1}Augmente la portée sur l'eau.{End}</Text>
+  <Text ID="ae">{C1}Augmente la portée sur ice.{End}</Text>
+  <Text ID="af">{C1}Le Pokémon peut pousser un adversaire attaquant loin avec super force.{End}</Text>
+  <Text ID="b0">{C1}Mouvements peuvent être utilisés peu importe les capacités ennemies.{End}</Text>
+  <Text ID="b1">{C1}Mouvements peuvent être utilisés peu importe les capacités ennemies.{End}</Text>
+  <Text ID="b2">{C1}Mouvements peuvent être utilisés peu importe les capacités ennemies.{End}</Text>
+  <Text ID="b3">{C1}Alimentes les mouvements si ils deviennent critiques.{End}</Text>
+  <Text ID="b4">{C1}Réduit les dégâts des attaques supereffective.{End}</Text>
+  <Text ID="b5">{C1}Le Pokémon est protégé contre les coups critiques.{End}</Text>
+  <Text ID="b6">{C1}Le Pokémon est protégé contre les coups critiques.{End}</Text>
+  <Text ID="b7">{C1}Le Pokémon est protégé contre les attaques 1-coup KO.{End}</Text>
+  <Text ID="b8">{C1}Ignore n'importe quel les chanegements d'État des Pokémon ennemis.{End}</Text>
+  <Text ID="b9">{C1}Augmente la résistance au mouvements de Type-Feu et Type-Glace.{End}</Text>
+  <Text ID="ba">{C1}Le Pokémon est protégé contre la paralysie.{End}</Text>
+  <Text ID="bb">{C1}Prévient le Pokémon d'être empoisoné.{End}</Text>
+  <Text ID="bc">{C1}Prévient le Pokémon d'être confus.{End}</Text>
+  <Text ID="bd">{C1}Le Pokémon est protégé contre la peur.{End}</Text>
+  <Text ID="be">{C1}Prévient l'États du Pokémon contre les changement négatifs.{End}</Text>
+  <Text ID="bf">{C1}Prévient le Pokémon de perdre la précision.{End}</Text>
+  <Text ID="c0">{C1}Augumente l'Attaque si frappé par un mouvement de Type-Feu.{End}</Text>
+  <Text ID="c1">{C1}Restaure les PV si frappé par un mouvement de Type-Eau.{End}</Text>
+  <Text ID="c2">{C1}Restaure les PV si frappé par un mouvement de Type-Électrique.{End}</Text>
+  <Text ID="c3">{C1}Augumente la Vitesse si frappé par un mouvement de Type-Électrique.{End}</Text>
+  <Text ID="c4">{C1}Absorbe tous les mouvements de Type-Électrique pour Augumenter l'Attaque.{End}</Text>
+  <Text ID="c5">{C1}Le Pokémon peut échapper au mouvements de ses alliés.{End}</Text>
+  <Text ID="c6">{C1}Le Pokémon peut parer les attaques ennemies directes avec des griffes ou des lames.{End}</Text>
+  <Text ID="c7">{C1}Le Pokémon utilise intuition pour échapper rapidements au mouvements de l'ennemi.{End}</Text>
+  <Text ID="c8">{C1}Le Pokémon peut échapper les attaques directe et frapper l'adversaire hors d'équilibre.{End}</Text>
+  <Text ID="c9">{C1}Contacter avec le Pokémon inflige des dégâts à l'attaquant.{End}</Text>
+  <Text ID="ca">{C1}Contacter avec le Pokémon peut empoisonner l'attaquant.{End}</Text>
+  <Text ID="cb">{C1}Contacter avec le Pokémon peut entraîner une paralysie.{End}</Text>
+  <Text ID="cc">{C1}Contacter avec le Pokémon peut brûler l'attaquant.{End}</Text>
+  <Text ID="cd">{C1}Contacter avec le Pokémon peut geler l'attaquant.{End}</Text>
+  <Text ID="ce">{C1}Contacter avec le Pokémon cause l'attaquant de flancher.{End}</Text>
+  <Text ID="cf">{C1}Augumente l'Attaque quabd les PV sont bas.{End}</Text>
+  <Text ID="d0">{C1}Augumente l'Attaque quabd les PV sont bas.{End}</Text>
+  <Text ID="d1">{C1}Augumente l'Attaque quabd les PV sont bas.{End}</Text>
+  <Text ID="d2">{C1}Augumente l'Attaque quabd les PV sont bas.{End}</Text>
+  <Text ID="d3">{C1}Augumente l'Attaque quand le Pokémon souffre d'une altération d'état.{End}</Text>
+  <Text ID="d4">{C1}Augumente l'Attaque et la défense quand le Pokémon souffre d'une altération d'état.{End}</Text>
+  <Text ID="d5">{C1}Augumente la vitesse après fléchir.{End}</Text>
+  <Text ID="d6">{C1}Augumente l'Attaque si frappé par un mouvement de Type-Ténèbre.{End}</Text>
+  <Text ID="d7">{C1}Restaure des PV pendant le sommeil.{End}</Text>
+  <Text ID="d8">{C1}Le Pokémon s'endort et récupère des PV quand les PV sont bas.{End}</Text>
+  <Text ID="d9">{C1}Restaure des PV et Augumente l'Attaque quand les PV sont bas.{End}</Text>
+  <Text ID="da">{C1}Restaure des PV Quand le Pokémon tient debout dans la lave.{End}</Text>
+  <Text ID="db">{C1}Restaure des PV Quand le Pokémon tient debout dans l'eau.{End}</Text>
+  <Text ID="dc">{C1}Restaure des PV Quand le Pokémon tient debout sur l'herbe.{End}</Text>
+  <Text ID="dd">{C1}Restaure des PV Quand le Pokémon tient debout sur le sol ou le sable.{End}</Text>
+  <Text ID="de">{C1}Restaure des PV Quand le Pokémon tient debout dans la lave, sur le sol, ou le sable.{End}</Text>
+  <Text ID="df">{C1}Restaure les PV d'un allié proche.{End}</Text>
+  <Text ID="e0">{C1}Restaure des PV à chaque tour.{End}</Text>
+  <Text ID="e1">{C1}Restaure des PV en attendant à la fin du tour.{End}</Text>
+  <Text ID="e2">{C1}Le Pokémon peut soigner ses propres altérations d'état.{End}</Text>
+  <Text ID="e3">{C1}Le Pokémon peut soigner les altérations d'état d'un allié adjacent.{End}</Text>
+  <Text ID="e4">{C1}Le Pokémon peut soigner les altérations d'état d'un allié adjacent.{End}</Text>
+  <Text ID="e5">{C1}Le Pokémon peut attaquer un ennemi adjacent dans la confusion de la bataille.{End}</Text>
+  <Text ID="e6">{C1}Le Pokémon peut absorber les PV d'un ennemi adjacent.{End}</Text>
+  <Text ID="e7">{C1}Le Pokémon protège un allié adjacent en prenant les coups ennemi à la place.{End}</Text>
+  <Text ID="e8">{C1}Augumente l'Attaque et la Defense quand leur armée se bat.{End}</Text>
+  <Text ID="e9">{C1}Augumente l'Attaque et la Defense lorsque tous les autres alliés sont vaincus.{End}</Text>
+  <Text ID="ea">{C1}Tous les mouvement faites par le Pokémon et sont ennemi vont être successives.{End}</Text>
+  <Text ID="eb">{C1}Le Pokémon peut échapper les mouvements de l'ennemi quand il est dans leur terrain favoris.{End}</Text>
+  <Text ID="ec">{C1}Renforce les attaques menées au début d'un tour.{End}</Text>
+  <Text ID="ed">{C1}Augumente l'Attaque en proportion de la distance parcourue.{End}</Text>
+  <Text ID="ee">{C1}Augumente l'Attaque lorsque plusieurs Pokémon de Type-Électrique sont ensemble.{End}</Text>
+  <Text ID="ef">{C1}Améliore la Défense sur l'herbe.{End}</Text>
+  <Text ID="f0">{C1}La précision du Pokémon est renforcé.{End}</Text>
+  <Text ID="f1">{C1}Double l'efficacité des changements d'État.{End}</Text>
+  <Text ID="f2">{C1}Augumente l'Attaque pour 1 tour après avoir vaincu un ennemi.{End}</Text>
+  <Text ID="f3">{C1}Le Pokémon peut se déplacer une fois de plus après avoir vaincu un ennemi.{End}</Text>
+  <Text ID="f4">{C1}Le Pokémon peut chanter auprès des ennemis pour les endormir.{End}</Text>
+</Block>
